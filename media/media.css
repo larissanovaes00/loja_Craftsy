@@ -1,0 +1,8 @@
+<style>
+@media (max-width: 600px)
+{
+  .caixa-a {
+    display: none;
+   }
+}
+</style>
